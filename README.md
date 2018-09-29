@@ -1,7 +1,9 @@
 # OD_OC_seg
 
 Author: Arunava Chakravarty
-Supervisor: Prof. Jayanthi Sivaswamy \n
+
+Supervisor: Prof. Jayanthi Sivaswamy
+
 Center for Visual Information Technology, IIIT-Hyderabad (https://cvit.iiit.ac.in/projects/mip/)
 -----------------------------------------------------------------------------------------------------------------------------------
 We are releasing a Matlab code for segmentation of the Optic Disc and Cup in retinal color fundus images.
